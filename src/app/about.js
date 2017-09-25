@@ -1,0 +1,1 @@
+alert("About page");
