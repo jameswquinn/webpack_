@@ -23,7 +23,9 @@
     "webpack": "^3.6.0",
     "zxcvbn": "^4.4.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "favicons-webpack-plugin": "0.0.7"
+  },
   "scripts": {
     "dev": "webpack-dev-server",
     "prod": "npm run clean && webpack -p",
